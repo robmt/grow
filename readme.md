@@ -12,7 +12,7 @@ Don't be dumb. Always follow any laws you are subject to including the ones you 
 
 ## Getting Started
 
-Follow the [quick start](guick-start.md) guide.
+Follow the [quick start](quick-start.md) guide.
 
 ## Indoor Growing
 
