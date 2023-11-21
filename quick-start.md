@@ -119,7 +119,7 @@ Get that seed a sproutin
 
 ## Flowering
 
-[Flowering](p4.me)
+[Flowering](p4.md)
 
 ## Harvest
 
