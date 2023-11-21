@@ -4,6 +4,16 @@
 
 **aka idk man just tell me what to do.**
 
+## Placement
+
+Considerations when selecting the location for growing.
+
+- Relatively stable room temperature.
+  - Avoid a cold area if possible. If not possible warming mats will help.
+- Fans can be loud. Place the setup in an area where you won't be bothered by the noise.
+- Errant lights are bad for photos, if possible isolate it almost like a darkroom. Sure the zipper is great on the tent but adding a door is even better.
+- Tents aren't cute. Enough said.
+
 ## Materials to start
 
 Necessary:
@@ -85,10 +95,32 @@ An **elastic net** for helping to 'train' the plant once it reaches a certain si
 
 **Garden scissors** for trimming.
 
-**Ph Meter** for science stuff.
+**Ph Meter or Ph Test drops** for science stuff.
 
 ## The Setup
 
 Build the tent, hang the filter and blower all according to instructions. Zip ties are helpful here.
 
 You'll need make sure that your tent has no light leaks. That includes any light sources aside from he primary light. Biggest example is surge protector.
+
+## Germination
+
+Get that seed a sproutin
+
+[Germination info](p1.md)
+
+## Seedling
+
+[Seedling info](p2.md)
+
+## Vegetative
+
+[Vegetative phase](p3.md)
+
+## Flowering
+
+[Flowering](p4.me)
+
+## Harvest
+
+[The Harvest](p5.md)

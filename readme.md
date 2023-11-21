@@ -2,8 +2,6 @@
 
 ---
 
-[[_TOC_]]
-
 ## Legal Stuff
 
 Before you get started growing, you’ll need to see if you even can grow in your state and area. 
@@ -33,3 +31,13 @@ For recommendations and tips about what to purchase or look for dig into the res
 - Humidifier
 - Small fan
 - Elastic netting for [training](training.md)
+
+## Plant Lifecycle
+
+### Germination
+
+### Seedling
+
+### Vegetative
+
+### Flowering

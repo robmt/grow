@@ -14,4 +14,10 @@ Be sure to add some perlite or equivalent for good drainage.
 
 ## coco coir - moderate complexity
 
-Coco has no nutrients aside from what you manually add. 
+Coco has no nutrients aside from what you manually add.
+
+## Nutrients
+
+**All** soils need nutrients at some point.
+
+Check the guide on [nutrients](nutrients.md).
