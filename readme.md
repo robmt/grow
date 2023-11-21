@@ -40,4 +40,4 @@ For recommendations and tips about what to purchase or look for dig into the res
 
 ### Vegetative
 
-### Flowering
+### Flowering 
